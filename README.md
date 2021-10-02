@@ -2,7 +2,6 @@
 - Estudande de ciência da computação!!💻
 - Aprofundando em Front-End!!💪
 
-[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://)
 <div align="center">
   <a href="https://github.com/honricke">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=honricke&show_icons=true&theme=material-palenight"/>
