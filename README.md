@@ -1,6 +1,7 @@
 - Olá, sou Henrique Bandeira!!😀
 - Estudande de ciência da computação!!💻
 - Aprofundando em Front-End!!💪
+- https://honricke.github.io/Portfolio/
 
 <div align="center">
   <a href="https://github.com/honricke">
