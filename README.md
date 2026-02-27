@@ -1,4 +1,4 @@
-# Desenvolvedro Fullstack
+# Desenvolvedor Fullstack
 
 Olá, sou Henrique! 😁
 
